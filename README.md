@@ -6,17 +6,20 @@
 * It then sends a mail to the user after updating the spreadsheet.
 ## Installation
 1. Clone this repo
+
 ```
 git clone https://github.com/syedsharjil/ShopBot.git
+
 ```
 2. Installing dependencie/libraries
 * Geckodriver for Firefox- The geckodriver can be downloaded from [here](https://github.com/mozilla/geckodriver/releases).
 
-* BeautifulSoup
-```
-$ pip install beautifulsoup4
+* BeautifulSoup- It is a library that makes it easy to scrape information from web pages. It sits atop an HTML or XML parser, providing   Pythonic idioms for iterating, searching, and modifying the parse tree. It can be installed in the following way.
 
 ```
+$ pip install beautifulsoup4
+```
+
 ## Running the script
 After installing all the libraries and dependencies. The product_price.py can be run directly in any IDE of your choice or through the shell.
 
