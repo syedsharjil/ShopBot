@@ -11,7 +11,7 @@
 git clone https://github.com/syedsharjil/ShopBot.git
 
 ```
-2. Installing dependencie/libraries
+2. <strong> Installing dependencie/libraries </strong>
 * Geckodriver for Firefox- The geckodriver can be downloaded from [here](https://github.com/mozilla/geckodriver/releases).
 
 * BeautifulSoup- It is a library that makes it easy to scrape information from web pages. It sits atop an HTML or XML parser, providing   Pythonic idioms for iterating, searching, and modifying the parse tree. It can be installed in the following way.
