@@ -5,7 +5,7 @@
 * This script uses Selenium which is one of the most widely used framework for testing web applications. It scrapes the Amazon.com website and fetches the best selling product of the given category and adds the deail to a .csv file.
 * It then sends a mail to the user after updating the spreadsheet.
 ## Installation
-1. Clone this repo
+1. <strong>Clone this repo</strong>
 
 ```
 git clone https://github.com/syedsharjil/ShopBot.git
